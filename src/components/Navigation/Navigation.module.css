@@ -1,0 +1,17 @@
+.NavList {
+  padding: 10px 20px;
+  display: flex;
+  list-style-type: none;
+}
+
+.NavLink {
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-left: 30px;
+  color: #868686;
+}
+
+.NavLink__active {
+  color: #d87093;
+}
